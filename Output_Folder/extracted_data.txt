@@ -1,0 +1,55 @@
+09/22 51.94Debit Card Credit Amazonprime Membershipamzn.com/pr WA
+10/02 705.73Funds Transfer From Acct 6017227102
+10/03 1.19Funds Transfer From Acct 6017227102
+10/04 134.02Funds Transfer From Acct 6017227102
+10/06 39.82Funds Transfer From Acct 6017227102
+10/10 182.80Funds Transfer From Acct 6017227102
+10/12 137.34Funds Transfer From Acct 6017227102', "
+09/14 39.689979 Debit Card Purchase Amazon MktplacePmts
+09/15 5.309979 Debit Card Purchase Kfc J625156  EriePA
+09/18 57.199979 Debit Card Purchase Paypal *SephoraUSA
+09/18 19.959979 Debit Card Purchase Paypal *CheggTxtbk
+09/18 7.309979 Debit Card Purchase McDonald'sF12018  Eri
+09/18 63.599979 Recurring Debit Card Ea *Origin.Com
+09/18 40.859979 Debit Card Purchase Sato RamenBuffalo NY
+09/18 6.47POS Purchase Maid Of The Mi Niagara FallNY
+09/18 6.009979 Debit Card Purchase NiagaraReservation Sp
+09/18 136.969979 Debit Card Purchase CheesecakeBuffalo
+09/18 38.70POS Purchase Sunoco 0573575 Angola NY
+09/19 3.359979 Debit Card Purchase Niagara Res StatePark
+09/19 6.589979 Debit Card Purchase Prospect Pointe
+09/19 68.679979 Debit Card Purchase Ni HoowaSupermarket
+09/19 16.009979 Debit Card Purchase Ni HoowaSupermarket
+09/19 50.009979 Debit Card Purchase Psu Id+ Office
+09/19 52.66POS Purchase Wal-Mart Super Erie PA
+09/21 44.999979 Recurring Debit Card Twc*Time WrnrCable
+09/21 9.009979 Debit Card Purchase Laser Wash/ErieErie
+09/21 51.949979 Recurring Debit Card AmazonprimeMembershi
+09/22 19.009979 Debit Card Purchase Codeschool.Com
+09/25 80.469979 Debit Card Purchase Erie 10 Minute OilCha
+09/25 5.939979 Debit Card Purchase McDonald'sF12375
+09/25 25.969979 Recurring Debit Card Inet-Cash.De*Durip
+09/25 21.969979 Debit Card Purchase Sq *Yummy Cafe
+09/25 21.009979 Debit Card Purchase Kimchi KoreanRestaura
+09/25 28.93POS Purchase Snappys 501 State Colleg PA
+09/25 37.849979 Debit Card Purchase Country Fair #46
+09/25 .78International POS Fee  Vis 0923              Df
+09/26 6.149979 Debit Card Purchase Tim Horton's#916332
+09/26 51.949979 Recurring Debit Card AmazonprimeMembershi
+09/26 14.719979 Debit Card Purchase Amazon.ComAmzn.Com/Bi
+09/27 7.289979 Debit Card Purchase Psu Housing andFoods
+09/27 .999979 Debit Card Purchase Apl*Itunes.Com/Bill
+09/28 8.269979 Debit Card Purchase Psu Housing andFoods
+09/28 10.599979 Debit Card Purchase Apl*Itunes.Com/Bill
+09/28 8.999979 Debit Card Purchase Paypal*Guangdong11
+09/29 53.959979 Debit Card Purchase Amazon MktplacePmts
+09/29 4.989979 Debit Card Purchase Psu Housing andFoods
+09/29 3.599979 Debit Card Purchase Psu Housing andFoods
+09/29 26.499979 Recurring Debit Card Sling.Com  888-393631
+10/02 149.059979 Debit Card Purchase Amazon.ComAmzn.Com/Bi
+10/02 6.039979 Debit Card Purchase Tim Horton's#916332
+10/02 43.61POS Purchase Get Go #3290 Erie PA
+10/03 9.999979 Debit Card Purchase Sunprod  727-4986514 P
+10/03 4.999979 Debit Card Purchase Sunprod  727-4986514 P
+10/04 4.299979 Debit Card Purchase Psu Housing andFoods
+10/05 1.199979 Debit Card Purchase Psu Housing andFoods
